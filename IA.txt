@@ -1,0 +1,6 @@
+Declaración de uso de inteligencia artificial, se declara el uso de herramientas de inteligencia artificial como apoyo complementario durante el desarrollo de este proyecto Django.
+La IA se utilizó principalmente para revisar la estructura de los archivos, orientar la organización del proyecto, sugerir mejoras de código y verificar
+que los requerimientos estuvieran cubiertos.
+También se utilizó como apoyo para recordar comandos de Git cuando surgieron dificultades de autenticación y publicación del repositorio. Durante ese proceso se indicó la posibilidad de generar un token de GitHub,
+pero finalmente no fue necesario utilizarlo, ya que la autenticación se completó mediante el navegador.
+
